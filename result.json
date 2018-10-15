@@ -1,0 +1,109 @@
+{
+  "user": [
+    {
+      "Firstname": "System Administrators",
+      "Lastname": "sysadmin",
+      "Email": "dummy@gmail.com",
+      "id": "100",
+      "role": "admin"
+    },
+    {
+      "Firstname": "Independence High Teachers",
+      "Lastname": "HS Teachers",
+      "Email": "dummy2@gmail.com",
+      "id": "101",
+      "role": "admin"
+    },
+    {
+      "Firstname": "John Glenn Middle Teachers",
+      "Lastname": "MS Teachers",
+      "Email": "dummy2@gmail.com",
+      "id": "102",
+      "role": "admin"
+    },
+    {
+      "Firstname": "Liberty Elementary Teachers",
+      "Lastname": "Elem Teachers",
+      "Email": "dummy2@gmail.com",
+      "id": "103",
+      "role": "admin"
+    },
+    {
+      "Firstname": "1st Grade Teachers",
+      "Lastname": "1stgrade",
+      "Email": "dummy2@gmail.com",
+      "id": "104",
+      "role": "admin"
+    },
+    {
+      "Firstname": "2nd Grade Teachers",
+      "Lastname": "2nsgrade",
+      "Email": "dummy2@gmail.com",
+      "id": "105",
+      "role": "admin"
+    },
+    {
+      "Firstname": "3rd Grade Teachers",
+      "Lastname": "3rdgrade",
+      "Email": "dummy2@gmail.com",
+      "id": "106",
+      "role": "admin"
+    },
+    {
+      "Firstname": "Guidance Department",
+      "Lastname": "guidance",
+      "Email": "dummy2@gmail.com",
+      "id": "107",
+      "role": "admin"
+    },
+    {
+      "Firstname": "Independence Math Teachers",
+      "Lastname": "HS Math",
+      "Email": "dummy2@gmail.com",
+      "id": "108",
+      "role": "admin"
+    },
+    {
+      "Firstname": "Independence English Teachers",
+      "Lastname": "HS English",
+      "Email": "dummy2@gmail.com",
+      "id": "109",
+      "role": "admin"
+    },
+    {
+      "Firstname": "John Glenn 8th Grade Teachers",
+      "Lastname": "8thgrade",
+      "Email": "dummy2@gmail.com",
+      "id": "110",
+      "role": "admin"
+    },
+    {
+      "Firstname": "John Glenn 7th Grade Teachers",
+      "Lastname": "7thgrade",
+      "Email": "dummy2@gmail.com",
+      "id": "111",
+      "role": "admin"
+    },
+    {
+      "Firstname": "Elementary Parents",
+      "Lastname": "Elem Parents",
+      "Email": "dummy2@gmail.com",
+      "id": "112",
+      "role": "admin"
+    },
+    {
+      "Firstname": "Middle School Parents",
+      "Lastname": "MS Parents",
+      "Email": "dummy2@gmail.com",
+      "id": "113",
+      "role": "admin"
+    },
+    {
+      "Firstname": "High School Parents",
+      "Lastname": "HS Parents",
+      "Email": "dummy2@gmail.com",
+      "id": "114",
+      "role": "admin"
+    }
+  ]
+}

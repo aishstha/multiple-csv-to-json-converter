@@ -1,0 +1,16 @@
+Firstname,Lastname,Email,id,role
+System Administrators,sysadmin,dummy@gmail.com,100,admin
+Independence High Teachers,HS Teachers,dummy2@gmail.com,101,admin
+John Glenn Middle Teachers,MS Teachers,dummy2@gmail.com,102,admin
+Liberty Elementary Teachers,Elem Teachers,dummy2@gmail.com,103,admin
+1st Grade Teachers,1stgrade,dummy2@gmail.com,104,admin
+2nd Grade Teachers,2nsgrade,dummy2@gmail.com,105,admin
+3rd Grade Teachers,3rdgrade,dummy2@gmail.com,106,admin
+Guidance Department,guidance,dummy2@gmail.com,107,admin
+Independence Math Teachers,HS Math,dummy2@gmail.com,108,admin
+Independence English Teachers,HS English,dummy2@gmail.com,109,admin
+John Glenn 8th Grade Teachers,8thgrade,dummy2@gmail.com,110,admin
+John Glenn 7th Grade Teachers,7thgrade,dummy2@gmail.com,111,admin
+Elementary Parents,Elem Parents,dummy2@gmail.com,112,admin
+Middle School Parents,MS Parents,dummy2@gmail.com,113,admin
+High School Parents,HS Parents,dummy2@gmail.com,114,admin
